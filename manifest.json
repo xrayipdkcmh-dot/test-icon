@@ -1,7 +1,7 @@
 {
   "name": "RT KCMH Duty Roster",
   "short_name": "CRT CHECK",
-  "start_url": "test-icon",
+  "start_url": "https://xrayipdkcmh-dot.github.io/test-icon/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4285f4",
